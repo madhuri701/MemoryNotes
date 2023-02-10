@@ -1,7 +1,8 @@
 # MemoryNotes
 A simple and user-friendly Android application that allows users to create, edit, and delete notes.
 
-Features
+Features -
+
 Create notes: Users can create notes by typing text and adding a title.
 
 Edit notes: Users can edit existing notes by changing the title or the content.
@@ -10,7 +11,7 @@ Delete notes: Users can delete notes by swiping them to the right.
 
 Data persistence: The app uses the Room database to store and retrieve data, ensuring data persistence even after app closure.
 
-Technical details
+Technical details -
 
 The app is written in Java and uses the Android framework.
 
